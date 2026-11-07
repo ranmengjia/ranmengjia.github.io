@@ -34,6 +34,7 @@ ROS 2 中的 Nav2（Navigation2）正是为了解决这些问题而设计的一�
 ---
 
 ## 二、Nav2 整体系统架构
+![ROS 2 Nav2 整体系统架构](../../assets/nav2-system-architecture1.png)
 
 ### 2.1 Nav2 是什么？
 
@@ -53,7 +54,6 @@ Nav2（Navigation2）是 ROS 2 中的移动机器人导航框架。
 这些模块并不是相互独立运行的，而是通过 ROS 2 的通信机制进行协作。
 
 ### 2.2 Nav2 整体架构图
-![ROS 2 Nav2 整体系统架构](../../assets/nav2-system-architecture.png)
 
 ```mermaid
 flowchart TB
