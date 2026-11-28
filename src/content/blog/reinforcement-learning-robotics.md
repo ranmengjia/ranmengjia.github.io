@@ -1,8 +1,9 @@
 ---
 title: "强化学习（RL）：让机器人通过试错学会自主决策"
-date: 2026-11-28
-categories: [人工智能, 具身智能, 机器人学习]
-tags: [强化学习, Reinforcement Learning, PPO, SAC, DQN, Isaac Lab, ROS2]
+description: "介绍强化学习的基本原理、MDP、奖励函数、策略、价值函数及 PPO、SAC、TD3 等算法，并结合 Isaac Lab、ROS 2 和具身智能理解机器人强化学习训练与应用。"
+date: "2026-11-28"
+tags: ["强化学习", "Reinforcement Learning", "PPO", "SAC", "DQN", "Isaac Lab", "ROS2", "具身智能"]
+categories: ["机器人学习"]
 ---
 
 # 强化学习（RL）：让机器人通过试错学会自主决策
